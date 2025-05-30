@@ -1,4 +1,4 @@
-
+    
 import streamlit as st
 import requests
 
@@ -13,7 +13,7 @@ goal = st.selectbox("Select Goal", ["lose_weight", "gain_weight", "energy"])
 if st.button("Get Suggestion"):
     try:
         response = requests.post(
-            "https://YOUR_NGROK_URL_HERE.ngrok-free.app/recommend",
+            "https://fb94-34-125-249-129.ngrok-free.app/recommend",
             json={"meal": meal, "goal": goal},
             timeout=10
         )
