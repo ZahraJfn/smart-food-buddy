@@ -1,0 +1,70 @@
+{
+  "breakfast": {
+    "lose_weight": [
+      "Boiled egg with spinach",
+      "Oatmeal with berries",
+      "Greek yogurt with flaxseed"
+    ],
+    "gain_weight": [
+      "Peanut butter toast",
+      "Banana smoothie with oats",
+      "Scrambled eggs with cheese"
+    ],
+    "energy": [
+      "Avocado toast",
+      "Granola with almond milk",
+      "Fruit and nut bar"
+    ]
+  },
+  "lunch": {
+    "lose_weight": [
+      "Grilled chicken salad",
+      "Steamed veggies with quinoa",
+      "Tuna lettuce wraps"
+    ],
+    "gain_weight": [
+      "Beef burrito",
+      "Chicken pasta with cream sauce",
+      "Rice with lentils and avocado"
+    ],
+    "energy": [
+      "Turkey sandwich on whole grain bread",
+      "Veggie stir fry with tofu",
+      "Quinoa bowl with chickpeas"
+    ]
+  },
+  "dinner": {
+    "lose_weight": [
+      "Grilled fish with steamed broccoli",
+      "Zucchini noodles with tomato sauce",
+      "Lentil soup"
+    ],
+    "gain_weight": [
+      "Mac and cheese with chicken",
+      "Meatballs with rice",
+      "Stuffed peppers with cheese"
+    ],
+    "energy": [
+      "Baked sweet potato with beans",
+      "Couscous with vegetables",
+      "Stir-fried beef and rice"
+    ]
+  },
+  "snack": {
+    "lose_weight": [
+      "Cucumber slices with hummus",
+      "Apple slices with cinnamon",
+      "Air-popped popcorn"
+    ],
+    "gain_weight": [
+      "Trail mix with nuts and raisins",
+      "Peanut butter banana bites",
+      "Granola bar"
+    ],
+    "energy": [
+      "Protein shake",
+      "Fruit smoothie",
+      "Energy balls with oats and dates"
+    ]
+  }
+}
